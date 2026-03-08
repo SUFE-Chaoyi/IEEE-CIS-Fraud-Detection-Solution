@@ -15,9 +15,11 @@ __pycache__/
 .DS_Store
 
 # 忽略虚拟环境 (如果你有的话)
-venv/
+.venv/
 env/
 
 # 忽略草稿
 *.md
 *.txt
+
+notebooks/.venv/
