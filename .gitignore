@@ -24,3 +24,4 @@ env/
 
 notebooks/.venv/
 .venv/
+.venv/
