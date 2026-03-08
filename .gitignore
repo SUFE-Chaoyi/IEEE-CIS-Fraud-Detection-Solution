@@ -1,0 +1,23 @@
+# .gitignore
+
+# 忽略数据文件 (太大了，传不上去)
+data/
+outputs/
+*.csv
+*.pkl
+
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 忽略系统文件
+.DS_Store
+
+# 忽略虚拟环境 (如果你有的话)
+venv/
+env/
+
+# 忽略草稿
+*.md
+*.txt
